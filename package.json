@@ -1,0 +1,31 @@
+{
+  "name": "parcel-plugin-tag",
+  "version": "1.0.0",
+  "description": "A simple plugin for compiling riot tags with parcel.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ampcpmgp/parcel-plugin-tag.git"
+  },
+  "keywords": [
+    "tag",
+    "riotjs",
+    "parceljs",
+    "bundle",
+    "plugin"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ampcpmgp/parcel-plugin-tag/issues"
+  },
+  "homepage": "https://github.com/ampcpmgp/parcel-plugin-tag#readme",
+  "dependencies": {
+    "parcel-bundler": "^1.9.7",
+    "riot": "^3.12.0",
+    "riot-compiler": "^3.5.1"
+  }
+}
