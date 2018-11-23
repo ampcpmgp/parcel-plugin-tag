@@ -1,6 +1,6 @@
 {
   "name": "parcel-plugin-tag",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "A simple plugin for compiling riot tags with parcel.",
   "main": "index.js",
   "scripts": {
