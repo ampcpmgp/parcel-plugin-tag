@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/ampcpmgp/parcel-plugin-tag#readme",
   "dependencies": {
-    "parcel-bundler": "^1.9.7",
+    "parcel-bundler": "^1.11.0",
     "riot": "^3.12.0",
     "riot-compiler": "^3.5.1"
   }
